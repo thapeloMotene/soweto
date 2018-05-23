@@ -1,0 +1,16 @@
+{
+  "name": "soweto-observer",
+  "version": "1.0.0",
+  "description": "a backend server and admin client for soweto observer newspaper",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Black Sparrows",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "mongoose": "^5.1.2"
+  }
+}
